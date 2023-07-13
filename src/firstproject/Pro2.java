@@ -1,5 +1,8 @@
 package firstproject;
 
 public class Pro2 {
-sfs
+private void sysout() {
+	// TODO Auto-generated method stub
+
+}
 }
