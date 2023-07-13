@@ -7,5 +7,7 @@ public class Pro1 {
 
 		
 		System.out.println("ddd");
+		
+		System.out.println("hahahahahahaha");
 	}
 }
